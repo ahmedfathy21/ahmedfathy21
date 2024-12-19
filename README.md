@@ -23,7 +23,6 @@
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true" />
-  <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=tokyo-night" />
 </p>
 
 ---
