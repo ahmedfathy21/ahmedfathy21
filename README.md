@@ -21,8 +21,8 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedfathy21&show_icons=true&theme=tokyonight&count_private=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ahmedfathy21&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
