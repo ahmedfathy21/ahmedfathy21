@@ -5,6 +5,8 @@
 
 ## 🚀 GitHub Stats:
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedFathy&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true)
+![Your Contributions Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=radical)
 
 ## 🌟 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFathy&layout=compact&theme=radical)
