@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Ahmed Fathy]
+# Hi 👋, I'm Ahmed Fathy
 
 ## Connect with Me 🌐
 
