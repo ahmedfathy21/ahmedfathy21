@@ -28,9 +28,17 @@
 ### **Tools**  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code)
 ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-green)
+![STM32CubeMX](https://img.shields.io/badge/-STM32CubeMX-brightgreen)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Keil](https://img.shields.io/badge/-Keil-lightblue)
 ![MPLAB](https://img.shields.io/badge/-MPLAB-blue?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-1488C6?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### **IoT Platforms**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ---
 
