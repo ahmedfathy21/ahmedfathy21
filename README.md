@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmed Fathy
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmed-fathy0/)
 
 ## 🚀 GitHub Stats:
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedFathy&show_icons=true&theme=radical)
