@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://files.oaiusercontent.com/file-KznKsaTrrt7ea1XP6KjAek?se=2024-12-19T01%3A08%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4a20a9e1-09c1-45b8-844b-9808e3fde5e1.webp&sig=U6veof0NPWX2Kophy9PlDuiVftxLSxKOKZq2DbYLzLE%3D" alt="Coding Animation" width="600" height="400" />
 </p>
+
 ## GitHub Stats 📊
 
 <p align="center">
@@ -53,6 +54,19 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## Hardware Kits 💻
+
+<p align="center">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="PIC" src="https://img.shields.io/badge/PIC-003A8F?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img alt="AVR" src="https://img.shields.io/badge/AVR-003A8F?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
