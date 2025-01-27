@@ -41,12 +41,12 @@
 </p>
 
 ---
-
 ## Tools 🛠️
 
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="STM32CubeMX" src="https://img.shields.io/badge/STM32CubeMX-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="STM32CubeIDE" src="https://img.shields.io/badge/STM32CubeIDE-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="Keil" src="https://img.shields.io/badge/Keil-%23007ACC.svg?style=for-the-badge&logo=arm&logoColor=white" />
   <img alt="MPLAB" src="https://img.shields.io/badge/MPLAB-%23003A8F.svg?style=for-the-badge&logo=microchip&logoColor=white" />
