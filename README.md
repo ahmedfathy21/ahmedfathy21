@@ -28,6 +28,14 @@
 
 ---
 
+## Most Used Languages 🚀
+
+<p align="center">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfathy21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## Languages & Technologies 🚀
 
 <p align="center">
