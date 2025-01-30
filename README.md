@@ -1,5 +1,3 @@
-# Hi 👋, I'm Ahmed Fathy
-
 ## Connect with Me 🌐
 
 <p align="center">
@@ -11,6 +9,9 @@
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014735089383" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://x.com/MESSI1987_2024" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
