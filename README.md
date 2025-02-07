@@ -61,7 +61,11 @@
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="STM32CubeMX" src="https://img.shields.io/badge/STM32CubeMX-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="STM32CubeIDE" src="https://img.shields.io/badge/STM32CubeIDE-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img alt="Keil" src="https://img.shields.io/badge/Keil-%23007ACC.svg?style=for-the-badge&logo=arm&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -72,9 +76,11 @@
 <p align="center">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
   <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="AVR" src="https://img.shields.io/badge/AVR-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="PIC" src="https://img.shields.io/badge/PIC-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
 
 ## IoT Platforms 🌐
 
