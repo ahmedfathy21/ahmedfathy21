@@ -67,7 +67,11 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="PIC Kit" src="https://img.shields.io/badge/PIC%20Kit-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="MPLAB X" src="https://img.shields.io/badge/MPLAB%20X-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
 </p>
+
 
 ---
 
