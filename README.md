@@ -70,7 +70,9 @@
   <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img alt="PIC Kit" src="https://img.shields.io/badge/PIC%20Kit-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
   <img alt="MPLAB X" src="https://img.shields.io/badge/MPLAB%20X-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
+
 
 
 ---
