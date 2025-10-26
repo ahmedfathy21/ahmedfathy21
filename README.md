@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/ahmed-fathy0/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="ahmedfathy11876@gmail.com" target="_blank">
+  <a href="mailto:ahmedfathy11876@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014735089383" target="_blank">
@@ -18,13 +18,13 @@
   </a>
 </p>
 
-
 ---
+
 <p align="center">
   <img src="https://i.pinimg.com/736x/58/9f/b3/589fb395f83786795a2def08108198fc.jpg" alt="Sung Jin-Woo from Solo Leveling" width="400" />
 </p>
 
-
+---
 
 ## GitHub Stats 📊
 
@@ -43,41 +43,43 @@
 
 ---
 
-## Languages & Technologies 🚀
+## Languages & Technologies 💻
 
 <p align="center">
+  <!-- Embedded Core -->
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+
+  <!-- Backend Core -->
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-68217A.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
 ---
+
 ## Tools 🛠️
 
 <p align="center">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="STM32CubeMX" src="https://img.shields.io/badge/STM32CubeMX-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img alt="STM32CubeIDE" src="https://img.shields.io/badge/STM32CubeIDE-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img alt="Keil" src="https://img.shields.io/badge/Keil-%23007ACC.svg?style=for-the-badge&logo=arm&logoColor=white" />
+  <img alt="STM32CubeMX" src="https://img.shields.io/badge/STM32CubeMX-%23007ACC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="MPLAB X" src="https://img.shields.io/badge/MPLAB%20X-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img alt="PIC Kit" src="https://img.shields.io/badge/PIC%20Kit-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="PIC Kit" src="https://img.shields.io/badge/PIC%20Kit-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img alt="MPLAB X" src="https://img.shields.io/badge/MPLAB%20X-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
-
-
 
 ---
 
-## Hardware Kits 🖥️
+## Hardware Kits ⚙️
 
 <p align="center">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
@@ -87,10 +89,17 @@
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+---
 
 ## IoT Platforms 🌐
 
 <p align="center">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Combining low-level embedded precision with high-level backend scalability.”</i>
 </p>
